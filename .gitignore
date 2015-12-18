@@ -1,5 +1,4 @@
 .DS_Store
 vendor
 Gemfile.lock
-manifest.yml
 my-config.yml
