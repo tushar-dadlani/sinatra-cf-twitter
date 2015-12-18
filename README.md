@@ -9,7 +9,7 @@ There is an example deployed at <http://twhofollows.cfapps.io>
 
 ## Deployment
 
-[![Deploy](https://i.imgur.com/fcN5hyU.png)](https://localhost:4567/deploy?source=https://github.com/tushar-dadlani/sinatra-cf-twitter)
+[![Deploy](https://i.imgur.com/fcN5hyU.png)](http://localhost:4567/deploy?source=https://github.com/tushar-dadlani/sinatra-cf-twitter)
 
 ## Overview
 
