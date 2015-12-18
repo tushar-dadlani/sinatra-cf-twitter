@@ -7,6 +7,10 @@ This is a refactored and improved version of [the app built for RailsConf 2011](
 
 There is an example deployed at <http://twhofollows.cfapps.io>
 
+## Deployment
+
+[![Deploy](https://i.imgur.com/fcN5hyU.png)](https://localhost:4567/deploy?source=https://github.com/tushar-dadlani/sinatra-cf-twitter)
+
 ## Overview
 
 This example uses:
